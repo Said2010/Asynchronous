@@ -1,2 +1,2 @@
-# Asin
+# Asynchronous
 Learning Asynchrony in Python
